@@ -9,3 +9,5 @@ Error: Cannot add negative money
 Actual result:
 
 Negative money were added.
+
+asdadasdasdad
